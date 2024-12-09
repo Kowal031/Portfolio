@@ -2,7 +2,7 @@ import { CssBaseline, ThemeProvider } from "@mui/material";
 import { FC, ReactNode } from "react";
 import theme from "../../styles/themes/theme";
 import Sidebar from "../sidebar/Sidebar";
-import StarsBackground from "../stars-background/StarsBackground";
+import StarsBackground from "../starsBackground/StarsBackground";
 
 interface LayoutProps {
   children: ReactNode;
