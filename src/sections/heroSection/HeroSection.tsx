@@ -15,7 +15,6 @@ const HeroSection: FC = () => {
     GITHUB_BUTTON_LABEL,
     LINKEDIN_URL,
     LINKEDIN_BUTTON_LABEL,
-    CV_URL,
     CV_DOWNLOAD_LABEL,
   } = HERO_CONSTANTS;
 
@@ -29,7 +28,6 @@ const HeroSection: FC = () => {
         githubLabel={GITHUB_BUTTON_LABEL}
         linkedinUrl={LINKEDIN_URL}
         linkedinLabel={LINKEDIN_BUTTON_LABEL}
-        cvUrl={CV_URL}
         cvLabel={CV_DOWNLOAD_LABEL}
       />
     </MotionWrapper>
