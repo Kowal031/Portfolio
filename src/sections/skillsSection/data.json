@@ -1,0 +1,48 @@
+{
+  "skillsData": [
+    {
+      "category": "Programming Languages:",
+      "skills": [{ "name": "JavaScript" }, { "name": "TypeScript" }]
+    },
+    {
+      "category": "Frontend:",
+      "skills": [
+        { "name": "React" },
+        { "name": "CSS" },
+        { "name": "HTML" },
+        { "name": "Vue", "level": "basic knowledge" },
+        { "name": "SASS" },
+        { "name": "LESS" }
+      ]
+    },
+    {
+      "category": "Backend:",
+      "skills": [{ "name": "C#/.Net", "level": "basic knowledge" }]
+    },
+    {
+      "category": "Tools:",
+      "skills": [
+        { "name": "MUI" },
+        { "name": "React Hook Form" },
+        { "name": "Yup" },
+        { "name": "Formik" },
+        { "name": "ApexCharts" }
+      ]
+    },
+    {
+      "category": "Version Control:",
+      "skills": [{ "name": "Git" }]
+    },
+    {
+      "category": "Agile Methodologies:",
+      "skills": [{ "name": "Scrum" }]
+    },
+    {
+      "category": "Other:",
+      "skills": [
+        { "name": "Responsive Web Design" },
+        { "name": "RESTful APIs" }
+      ]
+    }
+  ]
+}
