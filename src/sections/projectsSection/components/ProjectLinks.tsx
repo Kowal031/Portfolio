@@ -8,7 +8,7 @@ import {
 
 interface ProjectLinksProps {
   githubUrl: string;
-  liveUrl?: string;
+  liveUrl: string;
 }
 
 const ProjectLinks: FC<ProjectLinksProps> = ({ githubUrl, liveUrl }) => {
@@ -21,7 +21,7 @@ const ProjectLinks: FC<ProjectLinksProps> = ({ githubUrl, liveUrl }) => {
       </a>
       {liveUrl && (
         <a href={githubUrl} target="_blank">
-          <StyledLiveDemoButton variant="outlined" href={liveUrl}>
+          <StyledLiveDemoButton variant="outlined">
             {PROJECTS_CONSTANTS.BUTTONS_LABELS.LIVE_DEMO}
           </StyledLiveDemoButton>
         </a>
