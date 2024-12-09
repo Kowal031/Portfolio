@@ -20,7 +20,7 @@ const ProjectLinks: FC<ProjectLinksProps> = ({ githubUrl, liveUrl }) => {
         </StyledGithubButton>
       </a>
       {liveUrl && (
-        <a href={githubUrl} target="_blank">
+        <a href={liveUrl} target="_blank">
           <StyledLiveDemoButton variant="outlined">
             {PROJECTS_CONSTANTS.BUTTONS_LABELS.LIVE_DEMO}
           </StyledLiveDemoButton>
