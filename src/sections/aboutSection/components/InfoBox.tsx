@@ -23,7 +23,7 @@ const InfoBox: FC<InfoBoxProps> = ({ data }) => {
               flexWrap={"wrap"}
               justifyContent="center"
             >
-              {Object.entries(el).map(([key, value], index) => (
+              {Object.entries(el).map(([, value], index) => (
                 <CommonSubTextCentered key={index}>
                   {value}
                 </CommonSubTextCentered>
