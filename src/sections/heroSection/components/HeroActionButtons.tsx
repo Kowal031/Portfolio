@@ -5,13 +5,13 @@ import {
   ActionButtonsContainer,
   ButtonWrapper,
 } from "./StyledHeroSectionComponents";
+import cv from "../../../assets/cv/Kowalczyk_Maciej_CV.pdf";
 
 interface HeroActionButtonsProps {
   githubUrl: string;
   githubLabel: string;
   linkedinUrl: string;
   linkedinLabel: string;
-  cvUrl: string;
   cvLabel: string;
 }
 
@@ -20,7 +20,6 @@ const HeroActionButtons: FC<HeroActionButtonsProps> = ({
   githubLabel,
   linkedinUrl,
   linkedinLabel,
-  cvUrl,
   cvLabel,
 }) => {
   return (
@@ -60,7 +59,7 @@ const HeroActionButtons: FC<HeroActionButtonsProps> = ({
       </ActionButtonsContainer>
       <Button
         variant="outlined"
-        href={cvUrl}
+        href={cv}
         download
         sx={{
           color: "text.primary",
