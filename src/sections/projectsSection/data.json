@@ -1,0 +1,19 @@
+{
+  "projects": [
+    {
+      "title": "Portfolio",
+      "description": "A personal portfolio built with React, TypeScript, and MUI.",
+      "image": "portfolio",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "MUI",
+        "Formik",
+        "Yup",
+        "Email.js"
+      ],
+      "githubUrl": "https://github.com/Kowal031/Portfolio/tree/dev",
+      "liveUrl": ""
+    }
+  ]
+}

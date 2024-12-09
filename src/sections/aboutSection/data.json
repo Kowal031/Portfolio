@@ -1,0 +1,30 @@
+{
+  "aboutData": {
+    "description": "I am a Front-end Developer specializing in <b>JavaScript (TypeScript)</b>, with a particular focus on <b>React</b>. I have experience in building and maintaining commercial projects, having worked on a variety of applications, including a web application for a European drifting series and a web application for managing equipment in the mining industry, using technologies like TypeScript, React, and MUI. I feel comfortable working in a team, but I am also independent and capable of handling tasks autonomously. I am always eager to expand my skills and knowledge.",
+    "info": [
+      {
+        "title": "Degrees",
+        "content": [
+          {
+            "name": "Computer Science",
+            "university": "University of Technology and Humanities, Bielsko-Biała"
+          }
+        ]
+      },
+      {
+        "title": "Languages",
+        "content": [
+          { "name": "English", "lvl": "B1/B2" },
+          { "name": "Polish", "lvl": "Native language" }
+        ]
+      },
+      {
+        "title": "Hobbies",
+        "content": [
+          { "hobby": "Powerlifting" },
+          { "hobby": "Via ferrata climbing" }
+        ]
+      }
+    ]
+  }
+}
