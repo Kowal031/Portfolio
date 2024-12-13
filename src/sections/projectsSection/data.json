@@ -2,7 +2,7 @@
   "projects": [
     {
       "title": "Portfolio",
-      "description": "A personal portfolio built with React, TypeScript, and MUI.",
+      "description": "Personal portfolio developed with React, TypeScript, and MUI, email functionality powered by EmailJS, and form validation implemented with Formik and Yup.",
       "image": "portfolio",
       "technologies": [
         "React",
@@ -17,7 +17,7 @@
     },
     {
       "title": "TODO List",
-      "description": "A responsive todo list app with the following features: Drag & Drop reordering, Light/Dark Themes, PDF Export, Multilingual support and data stored in local storage.",
+      "description": "Todo list developed with the following features: Drag & Drop reordering, Light/Dark Themes, PDF Export, Multilingual support and data stored in local storage.",
       "image": "todo",
       "technologies": [
         "React",
