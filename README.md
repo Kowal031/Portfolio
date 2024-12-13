@@ -1,6 +1,6 @@
 # 🖥️ Portfolio Project
 
-  A modern, responsive portfolio website built using React, Material-UI (MUI), and TypeScript. This project showcases my skills, projects, and professional experience in a clean, visually appealing layout.
+  A modern, responsive portfolio website built using React, Material-UI (MUI), and TypeScript.
 
 # 🚀 Demo:
 
