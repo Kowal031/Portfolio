@@ -96,6 +96,7 @@ export const CommonSubText = styled(Typography)({
   fontWeight: 400,
   marginBottom: "1rem",
   color: appColors.text.tertiary,
+  flexGrow: 1,
   [commonMediaQueries.mediumScreen]: {
     fontSize: "0.75rem",
   },

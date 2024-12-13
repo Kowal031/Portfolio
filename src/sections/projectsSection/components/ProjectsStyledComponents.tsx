@@ -40,6 +40,7 @@ export const ProjectContentWrapper = styled(Box)({
   display: "flex",
   flexDirection: "column",
   padding: "1rem",
+  height: "100%",
 });
 
 export const ProjectsChip = styled(Chip)({
@@ -68,7 +69,7 @@ export const ProjectChipContainer = styled(Box)({
 
 export const StyledImage = styled("img")({
   width: "100%",
-  height: "auto",
+  height: "300px",
   objectFit: "cover",
   borderRadius: "2rem 2rem 0 0",
   marginBottom: "0.5rem",

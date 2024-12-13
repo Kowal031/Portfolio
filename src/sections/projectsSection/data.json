@@ -14,6 +14,22 @@
       ],
       "githubUrl": "https://github.com/Kowal031/Portfolio/",
       "liveUrl": "https://kowalczyk-maciej-portfolio.netlify.app/"
+    },
+    {
+      "title": "TODO List",
+      "description": "A responsive todo list app with the following features: Drag & Drop reordering, Light/Dark Themes, PDF Export, Multilingual support and data stored in local storage.",
+      "image": "todo",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "SCSS",
+        "flat",
+        "jsPDF",
+        "dnd kit",
+        "uuid"
+      ],
+      "githubUrl": "https://github.com/Kowal031/ToDoList",
+      "liveUrl": "https://kowalczyk-maciej-todo-list.netlify.app/"
     }
   ]
 }
