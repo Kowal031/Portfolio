@@ -4,7 +4,7 @@
 
 # 🚀 Demo:
 
-  Check out the live demo: Portfolio Live
+  Check out the live demo: [Portfolio Live Demo](https://kowalczyk-maciej-portfolio.netlify.app/)
 
 # 🔧 Installation and Setup:
 
