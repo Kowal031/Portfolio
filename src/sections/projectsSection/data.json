@@ -44,7 +44,8 @@
         "React Hook Form",
         "Yup"
       ],
-      "githubUrl": "https://github.com/Kowal031/TimeManagementApp/tree/dev"
+      "githubUrl": "https://github.com/Kowal031/TimeManagementApp/tree/dev",
+      "liveUrl": ""
     }
   ]
 }
