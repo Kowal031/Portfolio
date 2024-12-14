@@ -6,3 +6,9 @@ export const COMMON_IDS = {
   SKILLS: "skills",
   CONTACT: "contact",
 };
+
+export const PROJECT_IMAGES_NAME = {
+  PORTFOLIO: "portfolio",
+  TODO: "todo",
+  COMING_SOON: "comingSoon",
+};

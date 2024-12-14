@@ -16,7 +16,7 @@
       "liveUrl": "https://kowalczyk-maciej-portfolio.netlify.app/"
     },
     {
-      "title": "TODO List",
+      "title": "Todo List",
       "description": "Todo list developed with the following features: Drag & Drop reordering, Light/Dark Themes, PDF Export, Multilingual support and data stored in local storage.",
       "image": "todo",
       "technologies": [
@@ -30,6 +30,21 @@
       ],
       "githubUrl": "https://github.com/Kowal031/ToDoList",
       "liveUrl": "https://kowalczyk-maciej-todo-list.netlify.app/"
+    },
+    {
+      "title": "Time Management",
+      "description": "The application is being developed using React, TypeScript, and Firebase. It will allow users to create and manage routines and plan free time based on available hours throughout the day, month, or year (finding available time slots within a selected time range). It will include user authentication functionality and data storage in Firestore.",
+      "image": "comingSoon",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Firebase",
+        "Apexcharts",
+        "MUI",
+        "React Hook Form",
+        "Yup"
+      ],
+      "githubUrl": "https://github.com/Kowal031/TimeManagementApp/tree/dev"
     }
   ]
 }
